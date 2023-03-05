@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/101676244/222606774-3a4c4d94-78b0-4cf8-9409-505ca595b613.png)](https://www.jingruxu-web.com/)
-<h1 align="center">Hi 👋, I'm Jingru Xu, a passionate Front-End developer based on Ontario, Canada</h1>
+<h1 align="center">Hi 👋, I'm Jingru Xu, a passionate Front-End developer based in Ontario, Canada</h1>
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif">
 
