@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/101676244/222606774-3a4c4d94-78b0-4cf8-9409-505ca595b613.png)](https://www.jingruxu-web.com/)
-<h1 align="center">Hi 👋, I'm Jingru Xu, a passionate Front-End developer based in Ontario, Canada</h1>
-
+<!-- <h1 align="center">Hi 👋, I'm Jingru Xu, a passionate Front-End developer based in Ontario, Canada</h1> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jingru+Xu%2C+welcome+here)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif">
 
 <h3 align="left">Connect with me:</h3>
