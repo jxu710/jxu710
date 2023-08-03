@@ -8,16 +8,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jingru+Xu%2C+welcome+here)](https://git.io/typing-svg)
 
-  <p>A passionate web developer based in Ontario, Canada</p>
+
 </div>
 
-
 <p align="center">
+  
   <a href="https://linkedin.com/in/jingru-xu" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jingru-xu" height="30" width="40" />
   </a>
   <a href="https://www.jingruxu-web.com/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=jxu710&theme=dark">
+    <img src="https://streak-stats.demolab.com/?user=jxu710&theme=transparent" alt="GitHub Streak">
   </a>
 </p>
 
