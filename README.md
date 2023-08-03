@@ -20,12 +20,10 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://streak-stats.demolab.com/?user=jxu710&theme=dark">
-    <img src="https://streak-stats.demolab.com/?user=jxu710&theme=transparent" alt="GitHub Streak">
-  </a>
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jxu710&theme=transparent)](https://git.io/streak-stats)
+</div>
 
 <div align="center">
   <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif">
