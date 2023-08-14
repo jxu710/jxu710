@@ -49,3 +49,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </p>
+
+<div>
+  
+-🔭 I'm currently working on AWS Cloud project utilizing **serverless** architecture with`AWS Amplify`, `AWS Lambda`, and `TypeScript`.
+
+-📚 Additionally, I'm working towards obtaining the `AWS Certified Solutions Architect – Associate` certificate.
+</div>
