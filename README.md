@@ -47,7 +47,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+
 </p>
 
 <div>
@@ -56,3 +57,9 @@
 
 -📚 Additionally, I'm working towards obtaining the `AWS Certified Solutions Architect – Associate` certificate.
 </div>
+
+<!-- 可用以下替换 -->
+<!-- ![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,tailwind,bootstrap,git,github,typescript,aws,linux,netlify,mysql,postgresql,python,docker,jest&perline=6)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>-->
+
