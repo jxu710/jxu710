@@ -30,7 +30,7 @@
 </div>
 
 <h3>Languages and Tools:</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -49,17 +49,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 
-</p>
+</p> -->
 
-<div>
-  
--🔭 I'm currently working on AWS Cloud project utilizing **serverless** architecture with`AWS Amplify`, `AWS Lambda`, and `TypeScript`.
-
--📚 Additionally, I'm working towards obtaining the `AWS Certified Solutions Architect – Associate` certificate.
-</div>
 
 <!-- 可用以下替换 -->
-<!-- ![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,tailwind,bootstrap,git,github,typescript,aws,linux,netlify,mysql,postgresql,python,docker,jest&perline=6)
+![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,tailwind,bootstrap,git,github,typescript,aws,linux,netlify,mysql,postgresql,python,docker,jest&perline=9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
 
+<div>
+  <!-- -🔭 I'm currently working on AWS Cloud project utilizing **serverless** architecture with`AWS Amplify`, `AWS Lambda`, and `TypeScript`. -->
+
+
+-📚 I'm working towards obtaining the `AWS Certified Solutions Architect – Associate` certificate.
+</div>
