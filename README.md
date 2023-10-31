@@ -60,6 +60,7 @@
 <div>
   <!-- -🔭 I'm currently working on AWS Cloud project utilizing **serverless** architecture with`AWS Amplify`, `AWS Lambda`, and `TypeScript`. -->
 
-
--📚 I'm working towards obtaining the `AWS Certified Solutions Architect – Associate` certificate.
+-📚 I'm a `AWS Certified Solutions Architect Associate` 
+<br>
+-⚙️ I'm working on a serverless project featuring `S3`, `DynamoDB` and `Lambda`.
 </div>
